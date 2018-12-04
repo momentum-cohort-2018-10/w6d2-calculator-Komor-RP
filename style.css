@@ -1,0 +1,39 @@
+body { 
+    background-color: lightgray;
+}
+.calculator {
+    margin: 40px auto;
+    width: 328px;
+}
+div#top { 
+    display: flex;
+}
+div#screen { 
+    background-color: #61b34f;
+    height: 40px;
+    width: 204px;
+    line-height: 40px;
+    border: 1px solid #dadada;
+    padding: 20px;
+    text-align: right;
+}
+div#buttons { 
+    display: flex;
+    flex-wrap: wrap;
+    width: 328px;
+}
+div.button {
+    cursor: pointer;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    background-color: #61b34f;
+    border: 1px solid #dadada;
+}
+div.button:hover {
+    background-color: #82c276;
+}
+div.operation {
+    background-color: #82c276;
+}

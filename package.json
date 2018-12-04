@@ -1,0 +1,19 @@
+{
+  "name": "w6d2-calculator-komor-rp",
+  "version": "1.0.0",
+  "description": "## Skills",
+  "main": "script.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files \"*.js, *.html, *.css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momentum-cohort-2018-10/w6d2-calculator-Komor-RP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momentum-cohort-2018-10/w6d2-calculator-Komor-RP/issues"
+  },
+  "homepage": "https://github.com/momentum-cohort-2018-10/w6d2-calculator-Komor-RP#readme"
+}
